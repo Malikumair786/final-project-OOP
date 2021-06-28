@@ -47,7 +47,7 @@ public class RUNNER {
                 Logger.getLogger(RUNNER.class.getName()).log(Level.SEVERE, null, ex);
             }
         }
-        System.out.println("<----| Welcome to shop management system |---->\n");
+        System.out.println("<----| Welcome to Niazi's |---->\n");
         System.out.println("<-=-=-=- Admin -=-=-=->");
         while (!chose.equals("0")) {
             //   System.out.println("<-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=>");
